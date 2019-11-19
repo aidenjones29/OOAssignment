@@ -1,0 +1,3 @@
+﻿  OOAss.cpp
+D:\Users\AJones45\Desktop\OOASS\OOAss\OOAss.cpp(25,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Desktop\OOASS\OOAss\OOAss.cpp(35,34): error C2760:  syntax error: unexpected token 'identifier', expected 'type specifier'
