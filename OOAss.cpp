@@ -10,6 +10,7 @@ private:
 		K key;
 		V value;
 	};
+
 	int arrSize;
 	int maxSize;
 	SPair<K, V>* mapArrPtr;
@@ -37,7 +38,7 @@ void CMap<K, V>::increaseArray()
 
 	for (int i = 0; i < arrSize; i++)
 	{
-		//ADWAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+		mapArrPtrTmp[i] = mapArrPtr[i];
 	}
 }
 
