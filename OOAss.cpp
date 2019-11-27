@@ -1,91 +1,44 @@
 #include <iostream>
-
-template<typename K, typename V>
-class CMap
-{
-private:
-	template<typename K, typename V>
-	struct SPair
-	{
-		K key;
-		V value;
-	};
-
-	int arrSize;
-	int maxSize;
-	SPair<K, V>* mapArrPtr;
-	void increaseArray();
-public:
-	CMap();
-	V get(K);
-	void add(K, V);
-	void printAll();
-};
-
-template<typename K, typename V>
-CMap<K,V>::CMap<K,V>()
-{
-	maxSize = 100;
-	arrSize = 0;
-	mapArrPtr = new SPair<K,V>[maxSize];
-}
-
-template<typename K, typename V>
-void CMap<K, V>::increaseArray()
-{
-	SPair<K, V>* mapArrPtrTmp = new SPair<K, V>[maxSize * 2];
-	maxSize *= 2;
-
-	for (int i = 0; i < arrSize; i++)
-	{
-		mapArrPtrTmp[i] = mapArrPtr[i];
-	}
-}
-
-template<typename K, typename V>
-V CMap<K, V>::get(K key)
-{
-
-	for (int i = 0; i < arrSize; i++)
-	{
-		if (mapArrPtr[i].key == key)
-		{
-			std::cout << std::endl << key << " Found!" << std::endl;
-			return mapArrPtr[i].value;
-		}
-	}
-}
-
-template<typename K, typename V>
-void CMap<K, V>::add(K Key, V Value)
-{
-	if (arrSize < maxSize)
-	{
-		mapArrPtr[arrSize].key = Key;
-		mapArrPtr[arrSize].value = Value;
-		arrSize++;
-	}
-}
-
-template<typename K, typename V>
-void CMap<K, V>::printAll()
-{
-	for (int i = 0; i < arrSize; i++)
-	{
-		std::cout << "Key: " << mapArrPtr[i].key << " Value: " << mapArrPtr[i].value << std::endl;
-	}
-}
-
+#include <string>
+#include "Map.cpp"
 
 int main()
 {
-	//std::cout << "Hello World!\n";
-	CMap<int, std::string>* map = new CMap<int, std::string>();
-	map->add(1, "Test");
-	map->add(2, "Who's sam?");
-	map->add(3, "Test");
-	map->printAll();
-	std::string Test = map->get(2);
-	std::cout << "The value found was: " << Test << std::endl;
+	//******************* KEY: STRING VALUE: STRING *******************//
+	CMap<std::string, std::string>* map1 = new CMap<std::string, std::string>();
+	
+	for (int i = 0; i < 10; i++)
+	{
+		map1->add(std::to_string(i), "Who's sam?");
+	}
+	
+	map1->add("69", "Who's sam? 1");
+
+	map1->printAll();
+	std::string Test0 = map1->search("Who's sam? 1");
+	std::string Test1 = map1->get("8");
+
+	std::cout << std::endl;
+
+	map1->empty();
+
+	for (int i = 0; i < 10; i++)
+	{
+		map1->add(std::to_string(i), "Who's sam after delete?");
+	}
+	map1->printAll();
+
+	//******************* KEY: STRING VALUE: STRING *******************//
+	CMap<int, std::string>* map2 = new CMap<int, std::string>();
+
+	for (int i = 0; i < 10; i++)
+	{
+		map2->add(i, "Who's sam?");
+	}
+
+	map2->printAll();
+	std::string Test2 = map1->search("Who's sam?");
+	std::string Test3 = map2->get(8);
+
 	system("Pause");
 }

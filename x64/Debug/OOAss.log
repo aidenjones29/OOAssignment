@@ -1,1 +1,12 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(67,5): error MSB8020: The build tools for v142 (Platform Toolset = 'v142') cannot be found. To build using the v142 build tools, please install v142 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Retarget solution".
+﻿  OOAss.cpp
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(28,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(28,1): warning C4812:  obsolete declaration style: please use 'CMap<std::string,std::string>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(29): message :  while compiling class template member function 'CMap<std::string,std::string>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(8): message :  see reference to function template instantiation 'CMap<std::string,std::string>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(8): message :  see reference to class template instantiation 'CMap<std::string,std::string>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(28,1): warning C4812:  obsolete declaration style: please use 'CMap<int,std::string>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(29): message :  while compiling class template member function 'CMap<int,std::string>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(32): message :  see reference to function template instantiation 'CMap<int,std::string>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(32): message :  see reference to class template instantiation 'CMap<int,std::string>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(74): warning C4715:  'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::search': not all control paths return a value
+  OOAss.vcxproj -> D:\Users\AJones45\Documents\GitHub\OOAss\x64\Debug\OOAss.exe
