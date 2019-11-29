@@ -1,6 +1,4 @@
-﻿  Map.cpp
-  OOAss.cpp
-D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(30,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+﻿  OOAss.cpp
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(30,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(30,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(30,1): warning C4812:         with
@@ -896,7 +894,6 @@ D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :         [
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :             K=std::string,
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :             V=bool
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :         ]
-  Generating Code...
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :  see reference to function template instantiation 'void testCase<std::string,bool>(K [],V [])' being compiled
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :         with
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :         [
@@ -904,12 +901,12 @@ D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :             K=
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :             V=bool
 D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :         ]
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,double>::get': not all control paths return a value
-D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,int>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,float>::get': not all control paths return a value
-D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,int>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,char>::get': not all control paths return a value
-D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,bool>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<double,int>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<double,double>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<double,float>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<double,char>::get': not all control paths return a value
@@ -919,8 +916,8 @@ D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<floa
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<float,double>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<float,float>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<float,char>::get': not all control paths return a value
-D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<float,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<float,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<float,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<char,int>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<char,double>::get': not all control paths return a value
 D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(60): warning C4715:  'CMap<char,float>::get': not all control paths return a value
