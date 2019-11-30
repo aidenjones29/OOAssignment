@@ -10,6 +10,7 @@ double doubleTest[testLength] = { 1.5,2.5,3.5,4.5,5.5,6.5,7.5,8.5,9.5,10.5,11.5,
 int intTestValue[testLength] = { 10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260 };
 char charTest[testLength] = { 'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z' };
 bool boolTest[testLength] = { true, false, false, true, true, true, false, true, false, false, true, true, true, false, true, false, false, true, true, true, false,true, false, false, true, true};
+CTestClass classTest[testLength] = { 123, 132, 342, 834, 382, 495, 298, 853, 498, 682, 10, 52, 34, 68, 95, 48, 485, 65, 38, 193, 25, 18, 654, 192, 123, 1235 };
 std::string stringTest[testLength] =
 {
 	"Sam Whosthatason","Joe Bloggs", "Billy Jean","Beaux Boppings", "Leah Bigboi","Nikeh Ladyboi", "Bill Bob","Brian Blessed", "Flabby McGee"
@@ -28,34 +29,49 @@ int main()
 	testCase(intTestKey, charTest);
 	testCase(intTestKey, stringTest);
 	testCase(intTestKey, boolTest);
-
+	testCase(intTestKey, classTest);
+	
 	testCase(doubleTest, intTestValue);
 	testCase(doubleTest, doubleTest);
 	testCase(doubleTest, floatTest);
 	testCase(doubleTest, charTest);
 	testCase(doubleTest, stringTest);
 	testCase(doubleTest, boolTest);
-
+	testCase(doubleTest, classTest);
+	
 	testCase(floatTest, intTestValue);
 	testCase(floatTest, doubleTest);
 	testCase(floatTest, floatTest);
 	testCase(floatTest, charTest);
 	testCase(floatTest, stringTest);
 	testCase(floatTest, boolTest);
-
+	testCase(floatTest, classTest);
+	
 	testCase(charTest, intTestValue);
 	testCase(charTest, doubleTest);
 	testCase(charTest, floatTest);
 	testCase(charTest, charTest);
 	testCase(charTest, stringTest);
 	testCase(charTest, boolTest);
-
+	testCase(charTest, classTest);
+	
 	testCase(stringTest, intTestValue);
 	testCase(stringTest, doubleTest);
 	testCase(stringTest, floatTest);
 	testCase(stringTest, charTest);
 	testCase(stringTest, stringTest);
 	testCase(stringTest, boolTest);
+	testCase(stringTest, classTest);
+
+	testCase(classTest, intTestValue);
+	testCase(classTest, doubleTest);
+	testCase(classTest, floatTest);
+	testCase(classTest, charTest);
+	testCase(classTest, stringTest);
+	testCase(classTest, boolTest);
+	testCase(classTest, classTest);
+
+	system("Pause");
 }
 
 
@@ -86,7 +102,6 @@ void testCase(K key[], V value[])
 	std::cout << "****************** searching for: "<< key[6] << " ******************" << std::endl;
 	bool Test0 = map->search(key[6]);
 	if (Test0) { std::cout << key[6] << " Found!" << std::endl << std::endl; }
-
 	std::cout << "****************** Getting value from: " << key[6] << " ******************" << std::endl;
 	V Test1 = map->get(key[6]);
 	std::cout << std::endl;

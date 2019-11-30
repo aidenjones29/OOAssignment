@@ -1,5 +1,25 @@
 #include <iostream>
 
+class CTestClass
+{
+private:
+
+public:
+	int testInt;
+
+	friend std::ostream& operator << (std::ostream& out, const CTestClass& test)
+	{
+		out << test.testInt;
+		return out;
+	}
+
+	bool operator == (const CTestClass& test)
+	{
+		return testInt == test.testInt;
+	}
+};
+
+
 template<typename K, typename V>
 class CMap
 {
@@ -17,6 +37,7 @@ private:
 	void increaseArray();
 public:
 	CMap();
+	~CMap() { delete[] mapArrPtr; }
 	V get(K);
 	bool search(K);
 	void add(K, V);

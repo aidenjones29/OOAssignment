@@ -1,0 +1,939 @@
+﻿  Map.cpp
+  OOAss.cpp
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(37): message :  see reference to function template instantiation 'void testCase<int,int>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(37): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(37): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(37): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(37): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(37): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(38): message :  see reference to function template instantiation 'void testCase<int,double>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(38): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(38): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(38): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(38): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(38): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(39): message :  see reference to function template instantiation 'void testCase<int,float>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(39): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(39): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(39): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(39): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(39): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(40): message :  see reference to function template instantiation 'void testCase<int,char>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(40): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(40): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(40): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(40): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(40): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(41): message :  see reference to function template instantiation 'void testCase<int,std::string>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(41): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(41): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(41): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(41): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(41): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(42): message :  see reference to function template instantiation 'void testCase<int,bool>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(42): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(42): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(42): message :             K=int,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(42): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(42): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(44): message :  see reference to function template instantiation 'void testCase<double,int>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(44): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(44): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(44): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(44): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(44): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(45): message :  see reference to function template instantiation 'void testCase<double,double>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(45): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(45): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(45): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(45): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(45): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(46): message :  see reference to function template instantiation 'void testCase<double,float>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(46): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(46): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(46): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(46): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(46): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(47): message :  see reference to function template instantiation 'void testCase<double,char>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(47): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(47): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(47): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(47): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(47): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(48): message :  see reference to function template instantiation 'void testCase<double,std::string>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(48): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(48): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(48): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(48): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(48): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(49): message :  see reference to function template instantiation 'void testCase<double,bool>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(49): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(49): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(49): message :             K=double,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(49): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(49): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(51): message :  see reference to function template instantiation 'void testCase<float,int>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(51): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(51): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(51): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(51): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(51): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(52): message :  see reference to function template instantiation 'void testCase<float,double>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(52): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(52): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(52): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(52): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(52): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(53): message :  see reference to function template instantiation 'void testCase<float,float>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(53): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(53): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(53): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(53): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(53): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(54): message :  see reference to function template instantiation 'void testCase<float,char>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(54): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(54): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(54): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(54): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(54): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(55): message :  see reference to function template instantiation 'void testCase<float,std::string>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(55): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(55): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(55): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(55): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(55): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(56): message :  see reference to function template instantiation 'void testCase<float,bool>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(56): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(56): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(56): message :             K=float,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(56): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(56): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :  see reference to function template instantiation 'void testCase<char,int>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(58): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(59): message :  see reference to function template instantiation 'void testCase<char,double>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(59): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(59): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(59): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(59): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(59): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(60): message :  see reference to function template instantiation 'void testCase<char,float>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(60): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(60): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(60): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(60): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(60): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(61): message :  see reference to function template instantiation 'void testCase<char,char>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(61): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(61): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(61): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(61): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(61): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(62): message :  see reference to function template instantiation 'void testCase<char,std::string>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(62): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(62): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(62): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(62): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(62): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(63): message :  see reference to function template instantiation 'void testCase<char,bool>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(63): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(63): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(63): message :             K=char,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(63): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(63): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(65): message :  see reference to function template instantiation 'void testCase<std::string,int>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(65): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(65): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(65): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(65): message :             V=int
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(65): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(66): message :  see reference to function template instantiation 'void testCase<std::string,double>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(66): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(66): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(66): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(66): message :             V=double
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(66): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(67): message :  see reference to function template instantiation 'void testCase<std::string,float>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(67): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(67): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(67): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(67): message :             V=float
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(67): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :  see reference to function template instantiation 'void testCase<std::string,char>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :             V=char
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(68): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(69): message :  see reference to function template instantiation 'void testCase<std::string,std::string>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(69): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(69): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(69): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(69): message :             V=std::string
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(69): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:  obsolete declaration style: please use 'CMap<K,V>::CMap' instead
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(31,1): warning C4812:         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :  while compiling class template member function 'CMap<K,V>::CMap(void)'
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(32): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to function template instantiation 'CMap<K,V>::CMap(void)' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :  see reference to class template instantiation 'CMap<K,V>' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(83): message :         ]
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(70): message :  see reference to function template instantiation 'void testCase<std::string,bool>(K [],V [])' being compiled
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(70): message :         with
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(70): message :         [
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(70): message :             K=std::string,
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(70): message :             V=bool
+D:\Users\AJones45\Documents\GitHub\OOAss\OOAss.cpp(70): message :         ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<char,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<char,char>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<char,float>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<char,double>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<char,int>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<float,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<float,char>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<float,float>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<float,double>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<float,int>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<double,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<double,char>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<double,float>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<double,double>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<double,int>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<int,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<int,char>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<int,float>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<int,double>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<int,int>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,bool>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,char>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,float>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,double>::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<char,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<float,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<double,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
+D:\Users\AJones45\Documents\GitHub\OOAss\Map.cpp(61): warning C4715: 'CMap<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::get': not all control paths return a value
+  All 456 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OOAss.vcxproj -> D:\Users\AJones45\Documents\GitHub\OOAss\x64\Release\OOAss.exe
