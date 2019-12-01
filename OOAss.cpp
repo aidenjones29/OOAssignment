@@ -2,6 +2,7 @@
 #include <string>
 #include "Map.cpp"
 
+// Test case data
 const int testLength = 26;
 int testNumber = 1;
 int intTestKey[testLength] = { 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26 };
@@ -19,10 +20,11 @@ std::string stringTest[testLength] =
 };
 
 template<typename K, typename V>
-void testCase(K key[], V value[]);
+void testCase(K key[], V value[]); // Function for testing the data
 
 int main()
 {
+	//Integer map key tests
 	testCase(intTestKey, intTestValue);
 	testCase(intTestKey, doubleTest);
 	testCase(intTestKey, floatTest);
@@ -31,6 +33,7 @@ int main()
 	testCase(intTestKey, boolTest);
 	testCase(intTestKey, classTest);
 	
+	//Double map key tests
 	testCase(doubleTest, intTestValue);
 	testCase(doubleTest, doubleTest);
 	testCase(doubleTest, floatTest);
@@ -39,6 +42,7 @@ int main()
 	testCase(doubleTest, boolTest);
 	testCase(doubleTest, classTest);
 	
+	//Float map key tests
 	testCase(floatTest, intTestValue);
 	testCase(floatTest, doubleTest);
 	testCase(floatTest, floatTest);
@@ -47,6 +51,7 @@ int main()
 	testCase(floatTest, boolTest);
 	testCase(floatTest, classTest);
 	
+	//Char map key tests
 	testCase(charTest, intTestValue);
 	testCase(charTest, doubleTest);
 	testCase(charTest, floatTest);
@@ -55,6 +60,7 @@ int main()
 	testCase(charTest, boolTest);
 	testCase(charTest, classTest);
 	
+	//String map key tests
 	testCase(stringTest, intTestValue);
 	testCase(stringTest, doubleTest);
 	testCase(stringTest, floatTest);
@@ -63,6 +69,7 @@ int main()
 	testCase(stringTest, boolTest);
 	testCase(stringTest, classTest);
 
+	//Class map key tests
 	testCase(classTest, intTestValue);
 	testCase(classTest, doubleTest);
 	testCase(classTest, floatTest);
@@ -81,8 +88,10 @@ void testCase(K key[], V value[])
 	std::cout << "******************************************** TEST "<< testNumber <<" ********************************************" << std::endl << std::endl;
 	std::cout << "****************** Initialising map ******************" << std::endl;
 
+	//main map decleration
 	CMap<K, V>* map = new CMap<K, V>();
 
+	//Adding the test data to the map
 	for (int i = 0; i < testLength; i++)
 	{
 		map->add(key[i], value[i]);
@@ -90,25 +99,25 @@ void testCase(K key[], V value[])
 
 	std::cout << "****************** Map initialised ******************" << std::endl << std::endl;
 	std::cout << "****************** Printing ******************" << std::endl;
-	map->printAll();
+	map->printAll(); //Prints all the data held in the map
 	std::cout << "****************** Printed ******************" << std::endl;
 	std::cout << std::endl;
 	std::cout << "****************** Removing key 4 ******************" << std::endl << std::endl;
-	map->remove(key[3]);
+	map->remove(key[3]); //Removing a pair from the map
 	std::cout << "****************** Removed key 4 ******************" << std::endl << std::endl;
 	std::cout << "****************** Printing ******************" << std::endl;
-	map->printAll();
+	map->printAll(); //Printing everything held in the map
 	std::cout << "****************** Printed ******************" << std::endl << std::endl;
 	std::cout << "****************** searching for: "<< key[6] << " ******************" << std::endl;
-	bool Test0 = map->search(key[6]);
-	if (Test0) { std::cout << key[6] << " Found!" << std::endl << std::endl; }
+	bool Test0 = map->search(key[6]); //Checking if a key exists in the map
+	if (Test0) { std::cout << key[6] << " Found!" << std::endl << std::endl; } //Checks if the key was found.
 	std::cout << "****************** Getting value from: " << key[6] << " ******************" << std::endl;
-	V Test1 = map->get(key[6]);
+	V Test1 = map->get(key[6]); //Gets the value from the key.
 	std::cout << std::endl;
 	std::cout << "****************** Emptying map ******************" << std::endl;
-	map->empty();
+	map->empty(); //deletes and recreates the map class
 	std::cout << "****************** Map size: " << map->arraySize() << " ******************" << std::endl;
-	delete map;
-	testNumber++;
+	delete map; //Clears map data for the next test case
+	testNumber++; //Used for print text at the top of the test cases
 	system("Pause");
 }
